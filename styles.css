@@ -14,8 +14,8 @@ body {
 
 /* Estilos para la cabecera */
 header {
-    background-color: #4a90e2;
-    color: white;
+    background-color: rgb(128, 128, 128);
+    color: rgb(255, 0, 0);
     padding: 20px;
     text-align: center;
     font-size: 1.5em;
@@ -94,7 +94,7 @@ button:hover {
 
 /* Pie de página */
 footer {
-    background-color: #4a90e2;
+    background-color: rgb(255, 128, 255);
     color: white;
     text-align: center;
     padding: 10px;
